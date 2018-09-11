@@ -1,0 +1,4 @@
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.Model\bin\Debug\TainaTest.Model.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.Model\bin\Debug\TainaTest.Model.pdb
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.Model\obj\Debug\TainaTest.Model.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.Model\obj\Debug\TainaTest.Model.pdb

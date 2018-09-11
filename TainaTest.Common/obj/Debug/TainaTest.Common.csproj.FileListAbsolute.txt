@@ -1,0 +1,5 @@
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.Common\obj\Debug\TainaTest.Common.csprojResolveAssemblyReference.cache
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.Common\bin\Debug\TainaTest.Common.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.Common\bin\Debug\TainaTest.Common.pdb
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.Common\obj\Debug\TainaTest.Common.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.Common\obj\Debug\TainaTest.Common.pdb

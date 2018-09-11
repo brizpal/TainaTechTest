@@ -1,0 +1,9 @@
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.DataAccess\obj\Debug\TainaTest.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.DataAccess\bin\Debug\TainaTest.DataAccess.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.DataAccess\bin\Debug\TainaTest.DataAccess.pdb
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.DataAccess\bin\Debug\TainaTest.Common.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.DataAccess\bin\Debug\TainaTest.Model.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.DataAccess\bin\Debug\TainaTest.Common.pdb
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.DataAccess\bin\Debug\TainaTest.Model.pdb
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.DataAccess\obj\Debug\TainaTest.DataAccess.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.DataAccess\obj\Debug\TainaTest.DataAccess.pdb

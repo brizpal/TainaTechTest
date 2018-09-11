@@ -1,0 +1,57 @@
+﻿@model IEnumerable<TainaTest.Model.PersonsEntity>
+
+@{
+    ViewBag.Title = "All Persons";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.Encode("First Name")
+        </th>
+        <th>
+            @Html.Encode("Surname")
+        </th>
+        <th>
+            @Html.Encode("Gender")
+        </th>
+        <th>
+            @Html.Encode("Email Address")
+        </th>
+        <th>
+            @Html.Encode("Phone Number")
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Firstname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Surname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.PersonId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.PersonId })
+            </td>
+        </tr>
+    }
+
+</table>

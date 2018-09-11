@@ -1,0 +1,23 @@
+USE [master]
+GO
+ 
+CREATE DATABASE [Taina]
+GO
+ 
+USE [Taina]
+GO
+ 
+CREATE SCHEMA [TechTest]
+GO
+ 
+CREATE TABLE [TechTest].[Persons]
+(
+    [PersonId] [bigint] NOT NULL,
+    [Firstname] [nvarchar](30) NOT NULL,
+    [Surname] [nvarchar](40) NOT NULL,
+    [Gender] [nvarchar](6) NOT NULL,
+    [EmailAddress] [nvarchar](200) NOT NULL,
+    [PhoneNumber] [nvarchar](30) NULL
+CONSTRAINT [PK_Persons] PRIMARY KEY CLUSTERED ([PersonId] ASC) ON [PRIMARY]
+) ON [PRIMARY]
+GO

@@ -1,0 +1,11 @@
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\bin\Debug\TainaTest.BusinessLogic.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\bin\Debug\TainaTest.BusinessLogic.pdb
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\bin\Debug\TainaTest.Common.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\bin\Debug\TainaTest.DataAccess.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\bin\Debug\TainaTest.Model.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\bin\Debug\TainaTest.Common.pdb
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\bin\Debug\TainaTest.DataAccess.pdb
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\bin\Debug\TainaTest.Model.pdb
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\obj\Debug\TainaTest.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\obj\Debug\TainaTest.BusinessLogic.dll
+C:\Users\BrizpalDeora\Desktop\CodeItRight\TainaTest_Brizpal\TainaTest\TainaTest.BusinessLogic\obj\Debug\TainaTest.BusinessLogic.pdb
